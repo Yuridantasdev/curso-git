@@ -8,7 +8,7 @@ namespace Test
         {
             Console.WriteLine("TEST");
             Console.WriteLine();
-            
+            Console.WriteLine("Praticando o git");
         }
     }
 }
